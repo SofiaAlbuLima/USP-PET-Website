@@ -33,7 +33,7 @@ Website desenvolvido como parte do processo seletivo para o grupo PET Computaç�
 - 🟢 Alteração de informações pelo google sheets.
     
 # To-do atual - Objetivo: Colocar o site do PET no ar!
-| *21/05 - 28/05*
+| *21/05 - 12/06*
 - 🟢 Resposividade
 - 🟢 Título das atividades nas atividades ativas
 - 🟢 Atividade alterar automaticamente conforme as datas limites de atividades
