@@ -43,7 +43,7 @@ Website desenvolvido como parte do processo seletivo para o grupo PET Computaç�
 
 
 # Ideias de Implementação
-- Direcionamento para o apresenta do PET
+- Direcionamento para o apresenta do PET;
 - Página de membros do PET
     - Na página de membros: ex-membros também
     - PETs dos membros do PET
